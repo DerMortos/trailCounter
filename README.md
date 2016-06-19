@@ -20,31 +20,31 @@ Reiterate over Phase 1A and Phase 1B until working prototype is established.
 
 Implement long-term trail counters.
 
-<h5> Phase 3A: Design <h5>
+<h5> Phase 3A: Design </h5>
 
 Redesign prototype counters to be self-sustaining. Include power management, data storage and transmission.
 
-<h5> Phase 3B: Pilot <h5>
+<h5> Phase 3B: Pilot </h5>
 
 Pilot redesigned counters for two weeks.
 
-<h3> Phase 4: Reiteration 2 <h3>
+<h3> Phase 4: Reiteration 2 </h3>
 
 Reiterate over Phase 3A and Phase 3B until working final product is established.
 
-<h3> Phase 5: Scale and Finalize <h3>
+<h3> Phase 5: Scale and Finalize </h3>
 
 Implement final counters in Brownsville.
 
-<h5> Phase 5A: Production <h5>
+<h5> Phase 5A: Production </h5>
 
 Produce as many counters as needed for final project.
 
-<h5> Phase 5B: Deployment <h5>
+<h5> Phase 5B: Deployment </h5>
 
 Deploy counters.
 
-<h3> Phase 6: Maintenance <h3>
+<h3> Phase 6: Maintenance </h3>
 
 Maintain counters
 
