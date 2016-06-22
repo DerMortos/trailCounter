@@ -1,4 +1,4 @@
-This is a project to measure bike trail utilization on popular trails in Brownsville, Texas
+This is a project to measure bike trail utilization on popular trails in Brownsville, Texas.
 
 <h2> Hardware and Software Back-End Development: </h2>
 
