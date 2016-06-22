@@ -137,7 +137,7 @@ int getSensorData()
               Serial.print(" ");
               long y = EEPROM.read(2*i);
               Serial.print(y);
-              //Serial.print(" , ");
+              Serial.print(" ");
               latestMin = y;    
             }
         }
