@@ -7,10 +7,12 @@ This is a project to measure bike trail utilization on popular trails in Brownsv
 <h5> Phase 1A: Develop </h5>
 
 Develop prototype counters.
+Due date: July 1
 
 <h5> Phase 1B: Measurement </h5>
 
 Measure bicycle trail utilization at five sites along popular trails in Brownsville.
+Measure July 4 weekend? Or weekend after?
 
 <h3> Phase 2: Reiteration </h3>
 
